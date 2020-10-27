@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-markdown-previewer/static/css/main.a218fbd8.chunk.css",
+    "main.js": "/react-markdown-previewer/static/js/main.7252b21f.chunk.js",
+    "main.js.map": "/react-markdown-previewer/static/js/main.7252b21f.chunk.js.map",
+    "runtime-main.js": "/react-markdown-previewer/static/js/runtime-main.62742ae3.js",
+    "runtime-main.js.map": "/react-markdown-previewer/static/js/runtime-main.62742ae3.js.map",
+    "static/js/2.6aad62cf.chunk.js": "/react-markdown-previewer/static/js/2.6aad62cf.chunk.js",
+    "static/js/2.6aad62cf.chunk.js.map": "/react-markdown-previewer/static/js/2.6aad62cf.chunk.js.map",
+    "static/js/3.497a638f.chunk.js": "/react-markdown-previewer/static/js/3.497a638f.chunk.js",
+    "static/js/3.497a638f.chunk.js.map": "/react-markdown-previewer/static/js/3.497a638f.chunk.js.map",
+    "index.html": "/react-markdown-previewer/index.html",
+    "static/css/main.a218fbd8.chunk.css.map": "/react-markdown-previewer/static/css/main.a218fbd8.chunk.css.map",
+    "static/js/2.6aad62cf.chunk.js.LICENSE.txt": "/react-markdown-previewer/static/js/2.6aad62cf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-markdown-previewer/static/media/saxmono-webfont.8793e765.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62742ae3.js",
+    "static/js/2.6aad62cf.chunk.js",
+    "static/css/main.a218fbd8.chunk.css",
+    "static/js/main.7252b21f.chunk.js"
+  ]
+}
